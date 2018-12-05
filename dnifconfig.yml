@@ -1,0 +1,6 @@
+trigger_plugin:
+  AD_SERVER: <Add_your_AD_Server/Host>
+  AD_DOMAIN: <Add_your_AD_Domain_Name>
+  AD_USER: <Add_your_AD_User_Name>
+  AD_USER_PASS: <Add_your_AD_User_Password>
+ 
